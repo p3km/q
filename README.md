@@ -4,4 +4,4 @@ Lived2D models downloaded from `http://bandori.makoo.eu`.
 
 ## Table of Contents
 
-- none
+- there are none
